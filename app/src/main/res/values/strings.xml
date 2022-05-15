@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Assignment Task Details</string>
+
+    <string name="main_activity_name">List Of Assignments</string>
+    <string name="add_task_activity_name">Add a New Task</string>
+
+    <!-- Strings for TaskListActivity -->
+    <string name="priority_1">1</string>
+    <string name="priority_2">2</string>
+    <string name="priority_3">3</string>
+
+    <!-- Strings for AddTaskActivity -->
+    <!-- This etaskEntrytask has a unicode character for "..." = "&#8230;" -->
+    <string name="edit_task_description">Describe your taskEntry&#8230;</string>
+    <string name="priority_string">Priority</string>
+
+    <string name="high_priority">High</string>
+    <string name="med_priority">Medium</string>
+    <string name="low_priority">Low</string>
+
+    <string name="add_button">Add</string>
+    <string name="update_button">Update</string>
+    <string name="name_error">Enter your name</string>
+    <string name="last_name_error">Enter Your Last Name</string>
+    <string name="email_error">Enter your Email address</string>
+    <string name="error_invalid_email">Not a valid Email</string>
+    <string name="password_error">Password Incorrect</string>
+    <string name="error_invalid_password">Please enter a minimum of 6 characters</string>
+    <string name="logout">Logout</string>
+    <string name="delete_all_task">Delete all Task</string>
+</resources>
